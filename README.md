@@ -5,6 +5,6 @@ Web Development Workshop / HTTP 5114 - ONA
 
 Welcome to my **UX/UI Portfolio**!  
 
-![Portfolio Preview](images/Image.jpg)  
+![Portfolio Preview](Images/Image.jpg)  
 
  **Live Site:** [https://github.com/RaginiS19/markdown-portfolio](https://github.com/RaginiS19/markdown-portfolio)  
