@@ -8,5 +8,5 @@
 - Description: A chatbot designed to assist users in finding solutions.
 - Technologies: Figma, OpenAI API, JavaScript, HTML, CSS
 
-[Home] (index.markdown) | [About Me](about.markdown) | [Get in Touch](index.markdown) | [View Projects](projects.markdown)
+[Home] (index.markdown) | [About Me](about.markdown) | [Get in Touch](contact.markdown) | [View Projects](projects.markdown)
 
